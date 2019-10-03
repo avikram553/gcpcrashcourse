@@ -42,11 +42,13 @@ body{
 }
 
 .dsc-logo{
-    height: 10%;
-    width: 30%;
-    background: url('../images/FullTextLogo.svg') center center no-repeat;
+    height: 5%;
+    width: 15%;
+    background: url('../images/hfhf') center center no-repeat;
     background-size:100% auto;
     margin: auto auto;
+    margin-top: 25px;
+    margin-bottom: 80px;
 }
 
 .know-more-button{
@@ -125,9 +127,9 @@ body{
     height: auto;
     width: auto;
     display: inline-block;
-    margin-left: 25px;
-    margin-right: 25px;
-    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
     cursor: pointer;
 }
 
@@ -163,6 +165,7 @@ body{
 .icon-holder-three{
     height: auto;
     width: auto;
+    font-size: 1.2em;
     margin-left: 25px;
     margin-right: 25px;
     margin-bottom: 35px;
@@ -208,16 +211,28 @@ body{
 .data{
     background: url('../images/Data.svg') center center;
     background-size: cover;
+    margin-left: 30px;
+    border-radius: 100px;
+    border: solid black;
 }
 
 .android{
     background: url('../images/Android.svg') center center;
+    
     background-size: cover;
+    margin-left: 110px;
+    margin-right: 20px;
+    border-radius: 100px;
+    border: solid black;
+
 }
 
 .ml{
     background: url('../images/ML.svg') center center;
     background-size: cover;
+    margin-left: 60px;
+    border-radius: 100px;
+    border: solid black;
 }
 
 .step-one{
